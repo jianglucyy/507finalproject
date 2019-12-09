@@ -1,0 +1,6 @@
+sqlite==3.28.0
+bs4==0.0.1
+beautifulsoup4==4.8.1
+pandas==0.25.3
+requests==2.22.0
+plotly==4.2.1
