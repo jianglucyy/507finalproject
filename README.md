@@ -1,5 +1,4 @@
-# 507finalproject
-Final Project for 507: Intermediate Programming
+# Final Project for 507: Intermediate Programming
 
 This project is an **interactive program** that gives you various information about a specific pokemon, specific type(s) of pokemon, specific generation of pokemon, or all pokemon. There are 4 simple data presentations, in the form of a pie chart, a bar graph, a scatter plot, and a table.
 
