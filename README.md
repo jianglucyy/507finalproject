@@ -1,27 +1,20 @@
 # 507finalproject
 Final Project for 507: Intermediate Programming
 
-Data sources used, including instructions for a user to access the data sources
-●
-Any other information needed to run the program (e.g., pointer to getting started info for
-plotly)
-●
-Brief description of how your code is
-structured, including the names of significant data
-processing functions (just the 2
--
-3 most important functions
---
-not a complete list) and
-class definitions. If there are large data structures (e.g., lists, dictionaries) that you create
-to organize your dat
-a for presentation, briefly describe them.
-●
-Brief user guide, including how to run the program and how to choose presentation
-options
+This project is an **interactive program** that gives you various information about a specific pokemon, specific type(s) of pokemon, specific generation of pokemon, or all pokemon. There are 4 simple data presentations, in the form of a pie chart, a bar graph, a scatter plot, and a table.
 
-Your GitHub repo must
-also
-contain a requirements.txt file that can be used by the teaching
-team to set up a virtual envi
-ronment in which to run your project
+**Data sources used, including instructions for a user to access the data sources**
+Crawling[and scraping] multiple pages in a site you haven’t used before - 8 Challenge Points
+The website I used was https://pokemondb.net/pokedex/.
+There are no API calls, and thus this project does not require any API keys.
+
+**Any other information needed to run the program**
+No extra information is needed to run the program. 
+
+**Brief description of how your code is structured, including the names of significant data processing functions (just the 2-3 most important functions--not a complete list) and class definitions. If there are large data structures (e.g., lists, dictionaries) that you create to organize your data for presentation, briefly describe them.**
+
+**Brief user guide, including how to run the program and how to choose presentation options**
+Please look at the 'help.txt' file that is also in this repository.
+
+**Your GitHub repo must also contain a requirements.txt file that can be used by the teaching team to set up a virtual environment in which to run your project**
+This can be found in the repository as well.
