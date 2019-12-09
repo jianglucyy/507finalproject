@@ -8,7 +8,7 @@ This project is an **interactive program** that gives you various information ab
 * There are no API calls, and thus this project does not require any API keys
 
 **Any other information needed to run the program**
-No extra information is needed to run the program. 
+If you use my database and cache file, you don't need to change anything, but if you want to generate the cache and database yourself, you'll have to uncomment some of the cache code in the middle that is currently commented out. This was to save time while I was creating my program since it would take a long time to regenerate the database everytime.
 
 **Brief description of how your code is structured, including the names of significant data processing functions (just the 2-3 most important functions--not a complete list) and class definitions. If there are large data structures (e.g., lists, dictionaries) that you create to organize your data for presentation, briefly describe them.**
 Order of my code, from beginning to end:
