@@ -3,9 +3,9 @@
 This project is an **interactive program** that gives you various information about a specific pokemon, specific type(s) of pokemon, specific generation of pokemon, or all pokemon. There are 4 simple data presentations, in the form of a pie chart, a bar graph, a scatter plot, and a table.
 
 **Data sources used, including instructions for a user to access the data sources**
-Crawling [and scraping] multiple pages in a site you haven’t used before - 8 Challenge Points
-The website I used was https://pokemondb.net/pokedex/.
-There are no API calls, and thus this project does not require any API keys.
+* Crawling [and scraping] multiple pages in a site you haven’t used before - 8 Challenge Points
+* The website I used was https://pokemondb.net/pokedex/
+* There are no API calls, and thus this project does not require any API keys
 
 **Any other information needed to run the program**
 No extra information is needed to run the program. 
