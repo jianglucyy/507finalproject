@@ -1,0 +1,51 @@
+
+Commands available:
+
+pokemon <pokemon name>
+	Description: Get information about a Pokemon's stats or gender ratios.
+
+	Options:
+		* 1. View Pokemon Stats - presents the Pokemon's Stats in a table
+
+                * 2. View Gender Ratio - presents the Pokemon's gender ratio in a 
+                pie chart
+
+generation <generation number>
+	Description: Gets aggregate information about a specific generation's 
+        stats, types, and height and weight distributions
+
+	Options:
+		* 1. View Average Stats - presents the average stats of the 
+                specified generation's Pokemon in a table
+
+		* 2. View Type Breakdown - presents the number of each type of  
+                the specified generation's Pokemon in a bar graph
+
+		* 3. View Scatter of Height and Weight - presents a scatter plot 
+                of each Pokemon in the specified generation's weight and height
+
+type <pokemon type>
+	Description: Gets aggregate information about a specified Pokemon type's 
+        stats and height and weight distribution.
+
+	Options:
+		* 1. View Average Stats - presents the average stats of the 
+                specified Pokemon type
+
+		* 2. View Scatter of Height and Weight - presents a scatter plot 
+                of each Pokemon in the specified Pokemon type's weight and 
+                height
+
+all
+	Description: Gets aggregate information about all Pokemon
+
+	Options:
+		* 1. View Average Stats - presents the average stats of all 
+                Pokemon in a table
+
+                * 2. View Type Breakdown - presents the number of each type of  
+                Pokemon in a bar graph
+
+		* 3. View Scatter of Height and Weight - presents a scatter plot 
+                of every Pokemon's weight and height
+
