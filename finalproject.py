@@ -156,7 +156,7 @@ def poke_generation():
         elif p.number <= 890:
             p.generation = 8
         else:
-            print('new pokemon???')
+            continue
 
 # poke_generation()
 
